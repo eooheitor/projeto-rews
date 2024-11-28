@@ -46,31 +46,13 @@
     </div>
   </div>
 
-  <div class="container project-section py-5">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <h2 class="mb-4">PROJETOS</h2>
-      </div>
-      <div class="col-4">
-        <a href="/projeto-detail.php">
-          <div class="card">
-            <img src="https://placehold.co/600x600" class="card-img-top" alt="...">
-          </div>
-        </a>
-      </div>
-      <div class="col-4">
-        <a href="/projeto-detail.php">
-          <div class="card">
-            <img src="https://placehold.co/600x600" class="card-img-top" alt="...">
-          </div>
-        </a>
-      </div>
-      <div class="col-4">
-        <a href="/projeto-detail.php">
-          <div class="card">
-            <img src="https://placehold.co/600x600" class="card-img-top" alt="...">
-          </div>
-        </a>
+  <div class="container d-flex flex-column align-items-center py-5">
+    <div class="text-center">
+      <img src="https://placehold.co/1200x600" class="rounded img-fluid" alt="Imagem ilustrativa" style="max-width: 1200px;">
+      <h2 class="mt-4">Lorem ipsum dolor sit amet</h2>
+      <div class="text-start" style="max-width: 1200px; line-height: 1.6; text-align: justify; margin-top: 20px;">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores provident corrupti iste commodi quas laboriosam expedita ipsa earum. Impedit, maxime facilis commodi temporibus nemo accusamus porro laboriosam quae repudiandae quas.Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores provident corrupti iste commodi quas laboriosam expedita ipsa earum. Impedit, maxime facilis commodi temporibus nemo accusamus porro laboriosam quae repudiandae quas.Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores provident corrupti iste commodi quas laboriosam expedita ipsa earum. Impedit, maxime facilis commodi temporibus nemo accusamus porro laboriosam quae repudiandae quas.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores provident corrupti iste commodi quas laboriosam expedita ipsa earum. Impedit, maxime facilis commodi temporibus nemo accusamus porro laboriosam quae repudiandae quas.Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores provident corrupti iste commodi quas laboriosam expedita ipsa earum. Impedit, maxime facilis commodi temporibus nemo accusamus porro laboriosam quae repudiandae quas.Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores provident corrupti iste commodi quas laboriosam expedita ipsa earum. Impedit, maxime facilis commodi temporibus nemo accusamus porro laboriosam quae repudiandae quas.</p>
       </div>
     </div>
   </div>
